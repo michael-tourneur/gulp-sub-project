@@ -1,5 +1,5 @@
 # SubGulp
-SubGulp is a boilerplate to structure your project into sub project.
+SubGulp is a boilerplate to structure your project into sub projects.
 
 ### Version
 0.0.1
