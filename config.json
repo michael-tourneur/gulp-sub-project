@@ -1,0 +1,4 @@
+{
+	"glob": ["./app/sites/all/modules/**/sub-gulpfile.js", "./app/sites/all/themes/**/sub-gulpfile.js"],
+	"tasks" : ["watch", "prod"]
+}
