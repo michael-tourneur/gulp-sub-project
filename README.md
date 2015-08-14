@@ -14,7 +14,7 @@ $ npm install
 ### Configuration
 A config.json file is available to configure your sub projects.
 
-* "glob" key => Array to Define the paths to search the gulpfile.js files of your sub projects.
+* "glob" key => Array of paths to locate the sub-gulpfile.js files of your sub projects.
 * "tasks" key => Array to enabled tasks from your sub project
 
 
